@@ -1,0 +1,7 @@
+version: STSv1
+mode: enforce
+mx: mailstream-eu1.mxrecord.io
+mx: mailstream-central.mxrecord.mx
+mx: mailstream-east.mxrecord.io
+mx: mailstream-west.mxrecord.io
+max_age: 1209600
